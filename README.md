@@ -1,2 +1,2 @@
-# scollection
+# sCollection
 SRC for my Collection
