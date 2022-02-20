@@ -239,7 +239,7 @@ nav a:hover {
     cursor: pointer;
   }
   
-  /* Hides the tooltip unless user hovers */
+  /* Hides the tooltip unless hover*/
   [data-tooltip]:before,
   [data-tooltip]:after {
     visibility: hidden;
