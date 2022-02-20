@@ -231,6 +231,8 @@ nav a:hover {
 }
 
 /* End nav menu */
+
+
 /* Tooltips */
 
 [data-tooltip] {
@@ -295,3 +297,7 @@ nav a:hover {
     opacity: 1;
 }
 /* End Tooltips */
+
+.adblockers * {
+    text-align: left !important; 
+}
