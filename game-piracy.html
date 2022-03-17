@@ -7,32 +7,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
   <link rel="stylesheet" href="css/index.css">
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 
   <title>Game Piracy | sCollection</title>
 </head>
 
 <body>
-  <!-- nav menu -->
-  <a id="nav-expand" href="#">
-    <span class="icon icon-menu"></span>&nbsp;
-    Menu
-  </a>
-  <nav>
-    <a id="nav-collapse" href="#">
-      <span class="icon icon-cross"></span>
-    </a>
-    <a href="index.html">Home</a>
+  <!--Navigation bar-->
+  <div id="nav-placeholder">
 
-    <div class="category-navbar">
-      <p><u><strong>Categories</strong></u></p>
-    </div>
+  </div>
 
-    <a href="vpn.html">VPN</a>
-    <a href="credits.html">Credits</a>
-    <a href="adblock.html">Ad-Blocking</a>
-
-  </nav>
-  <!-- end nav menu-->
+  <script>
+    $(function () {
+      $("#nav-placeholder").load("nav.html");
+    });
+  </script>
+  <!--end of Navigation bar-->
 
   <main>
     <div class="game-piracy-sites">
