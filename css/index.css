@@ -3,7 +3,7 @@
 .category-navbar {
     font-size: 30px;
 }
-/* Text Selection Color */
+/* Text Selection Color, the usual blue is ugly */
 
 ::-moz-selection {
     color: rgb(255, 255, 255);
@@ -241,7 +241,7 @@ nav a:hover {
     cursor: pointer;
   }
   
-  /* Hides the tooltip unless hover*/
+  /* Hides the tooltip unless hover */
   [data-tooltip]:before,
   [data-tooltip]:after {
     visibility: hidden;
