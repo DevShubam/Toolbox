@@ -1,4 +1,4 @@
-.
+#sCollection
 
 https://devshubam.github.io/scollection
 
