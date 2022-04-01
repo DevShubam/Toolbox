@@ -298,14 +298,6 @@ nav a:hover {
 }
 /* End Tooltips */
 
-.adblockers * {
-    text-align: left !important; 
-}
-
-.game-piracy-sites * {
-    text-align: left !important;
-}
-
-.vpns * {
+.main-site-listing * {
     text-align: left !important;
 }
