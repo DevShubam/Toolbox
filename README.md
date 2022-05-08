@@ -1,5 +1,3 @@
-#sCollection
+# Toolbox
 
-https://devshubam.github.io/scollection
-
-not the permanent url
+**Toolbox** is a curated list of websites, extensions, apps and more. 
